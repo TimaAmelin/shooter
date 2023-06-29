@@ -1,1 +1,1 @@
-undefined
+Hello world
